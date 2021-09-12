@@ -1,0 +1,13 @@
+
+.table {
+    min-width: 650,
+}
+.head{
+    background-color: '#d0d0d0'
+}
+.success{
+    color: rgb(103, 236, 103);
+}
+.row :hover{
+    cursor: pointer;
+}
